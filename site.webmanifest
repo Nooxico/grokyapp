@@ -1,0 +1,21 @@
+{
+  "name": "Quotabit",
+  "short_name": "Quotabit",
+  "description": "Support and privacy for the Quotabit iOS app.",
+  "start_url": ".",
+  "display": "browser",
+  "background_color": "#102258",
+  "theme_color": "#102258",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
